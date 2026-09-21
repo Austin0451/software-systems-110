@@ -60,13 +60,13 @@ Complete all of the following in your notes section.
 
 ## Checklist
 
-- [ ] Create at least three headers (Level 1, Level 2, Level 3)
-- [ ] Include one horizontal rule
-- [ ] Use bold text
-- [ ] Use italic text
-- [ ] Create a bullet list containing at least three items
-- [ ] Create a numbered list containing at least three items
-- [ ] Create a task list containing at least three tasks
+- [x] Create at least three headers (Level 1, Level 2, Level 3)
+- [x] Include one horizontal rule
+- [x] Use bold text
+- [x] Use italic text
+- [x] Create a bullet list containing at least three items
+- [x] Create a numbered list containing at least three items
+- [x] Create a task list containing at least three tasks
 - [ ] Add a hyperlink with your GitHub profile
 
 ## Instructions
@@ -84,5 +84,60 @@ Complete all of the following in your notes section.
 
 # Section 3: Student Notes
 
-Delete this line and write your notes here.
 
+
+# Level 1
+**Clients and Servers**
+- **Clients** require information
+    *Ex: Web Browser & mobile apps*
+- **Servers** store data and provides services
+- **Servers** respond to requests from clients.
+
+**IP Address**
+- Identifies a device on a network
+    *Ex: Street address for computers*
+
+**Domain Names**
+- A human-friendly website address
+    *Ex: google.com and Amazon.com*
+- **Domain Names** are easier to remember than IP addresses
+
+---
+
+## Level 2
+**Protocol**
+- A set of rules for communication
+- Allows devices to exchange data correctly.
+- Commonly uses:
+    1. HTTPS
+    2. HTTP
+
+**Websites** provide information.
+**Web Application** allows the user to perform tasks. 
+
+
+---
+
+### Level 3
+**Frontend** are what users see and interact with.
+If your website has: 
+- [x] Buttons
+- [ ] Menus
+- [ ] Pages (whether they are one or more)
+
+then you are witnessing a **frontend**. It is usually encoded with either:
+- HTML
+- CSS
+- JavaSctipt
+
+
+
+**Backend** (not the backrooms) are what users don't see. It is code that runs behind the scenes and they handle data, logic, and processing.
+Their code consist of either:
+- SQL
+- C++
+- C#
+- Java
+
+
+---
